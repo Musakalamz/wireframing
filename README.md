@@ -1,7 +1,7 @@
 # 🖼️ Wireframing: From Concept to Prototype
 
 <p align="center">
-  <img src="assets/wireframing-banner.png" alt="Wireframing to Prototyping Banner" width="80%">
+  <img src="/wireframing-banner.png" alt="Wireframing to Prototyping Banner" width="80%">
 </p>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Musakalamz/wireframing?style=social)  
