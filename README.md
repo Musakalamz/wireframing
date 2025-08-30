@@ -46,3 +46,22 @@ Every effective wireframe contains core elements that shape the **user experienc
 Together, these elements transform abstract ideas into **user-focused design blueprints**.
 
 ---
+
+## 🖥️ Types of Wireframes
+
+Wireframes can be categorized into two main types:
+
+- **Low-Fidelity Wireframes**
+
+  - Simple sketches or digital outlines.
+  - Focus: Conceptual structure and user flow.
+  - Use Case: Early brainstorming sessions, quick validation of ideas.
+
+- **High-Fidelity Wireframes**
+  - Detailed, polished mockups with more accuracy.
+  - Focus: Specific design elements, spacing, and sometimes clickable prototypes.
+  - Use Case: Later stages of design, stakeholder presentations, usability testing.
+
+👉 **Tip:** Start low-fidelity to explore ideas quickly, then move to high-fidelity for refinement.
+
+---
