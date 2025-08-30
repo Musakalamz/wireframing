@@ -65,3 +65,25 @@ Wireframes can be categorized into two main types:
 👉 **Tip:** Start low-fidelity to explore ideas quickly, then move to high-fidelity for refinement.
 
 ---
+
+## 🛠️ Wireframing Tools
+
+There are many tools available to bring wireframes to life. A few popular ones include:
+
+- **Figma** (recommended)
+
+  - Cloud-based, real-time collaboration.
+  - Powerful vector editing and prototyping features.
+  - Easy sharing with teams and stakeholders.
+
+- **Balsamiq**
+
+  - Known for its hand-drawn, low-fidelity style.
+  - Great for rapid brainstorming.
+
+- **Sketch / Adobe XD**
+  - Industry-standard design tools for creating detailed, high-fidelity wireframes and prototypes.
+
+✨ **Why Figma?** Its collaborative nature makes it perfect for modern software teams, ensuring seamless communication across designers, developers, and product managers.
+
+---
