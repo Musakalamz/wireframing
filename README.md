@@ -121,3 +121,13 @@ By adjusting the wireframe and moving the "Checkout" button to a more prominent 
 **Summary:** Wireframing acted as a safeguard, catching usability issues early and ensuring the final product was **intuitive and user-friendly**.
 
 ---
+
+## 👨‍💻 Author
+
+**Musa Ogunsolu**
+
+- GitHub: [@Musakalamz](https://github.com/Musakalamz)
+- Twitter: [@Musakalamz](https://twitter.com/Musakalamz)
+- LinkedIn: [Musa Ogunsolu](https://linkedin.com/in/musa-ogunsolu)
+
+---
